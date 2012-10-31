@@ -1,0 +1,18 @@
+{
+"FirstName":"Fernando",
+"LastName":"Alonso",
+"DateOfBirth":"\/Date(0365212800000)\/",
+"HomeAddress": 
+    {
+    "Street":"Gran Via",
+    "City":"Oviedo",
+    "PostCode":"OV12345",
+    "Country":"Espana"
+    },
+"IsApproved":"true",
+"Roles":
+    [
+        {"RoleName":"editor"},
+        {"RoleName":"contributor"}
+    ]
+}
